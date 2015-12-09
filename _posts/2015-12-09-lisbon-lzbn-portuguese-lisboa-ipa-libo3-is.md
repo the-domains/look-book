@@ -1,0 +1,20 @@
+---
+description: "Lisbon (/ˈlɪzbən/; Portuguese: Lisboa, IPA:\_[liʒˈboɐ])[3] is the capital and the largest city of Portugal, with a population of 552,700[4] within its administra"
+author: []
+datePublished: '2015-12-09T01:02:10.166Z'
+publisher:
+  domain: en.wikipedia.org
+  name: en.wikipedia.org
+dateModified: '2015-12-09T01:01:55.422Z'
+title: ''
+sourcePath: _posts/2015-12-09-lisbon-lzbn-portuguese-lisboa-ipa-libo3-is.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: lisbon-lzbn-portuguese-lisboa-ipa-libo3-is/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+Lisbon (/ˈlɪzbən/; Portuguese: Lisboa, IPA: \[liʒˈboɐ\])\[3\] is the capital and the largest city of Portugal, with a population of 552,700\[4\] within its administrative limits in an area of 100.05 km².\[5\] Its urban area extends beyond the city's administrative limits with a population of around 2.7 million people, being the 11th-most populous urban area in the European Union.\[1\] About 2.8 million people live in the Lisbon Metropolitan Area (which represents approximately 27% of the country's population).\[2\] It is continental Europe's westernmost capital city and the only one along the Atlantic coast. Lisbon lies in the western Iberian Peninsula on the Atlantic Ocean and the River Tagus. The westernmost areas of its metro area is the westernmost point of Continental Europe. Lisbon is recognised as a global city because of its importance in finance, commerce, media, entertainment, arts, international trade, education and tourism.\[6\]\[7\] It is one of the major economic centres on the continent, with a growing financial sector and one of the largest container ports on Europe's Atlantic coast.\[8\] Lisbon Portela Airport serves over 18 million passengers annually, as of 2014,\[9\] and the motorway network and the high-speed rail system of Alfa Pendular link the main cities of Portugal.\[10\] The city is the 7th-most-visited city in Southern Europe, after Istanbul, Rome, Barcelona, Madrid, Athens and Milan, with 1,740,000 tourists in 2009.\[11\] The Lisbon region contributes with a higher GDP PPP per capita than any other region in Portugal. It also ranks as the 10th highest GDP of metropolitan areas in the EU amounting to 110 billion euros and thus €39,375 per capita,\[12\] 40% higher than the average European Union's GDP per capita. The city occupies 32nd place of highest gross earnings in the world.\[13\] Most of the headquarters of multinationals in the country are located in the Lisbon area.\[14\] It is also the political centre of the country, as seat of Government and residence of the Head of State. Lisbon is one of the oldest cities in the world, and the oldest in Western Europe, predating other modern European capitals such as London, Paris and Rome by centuries. Julius Caesar made it a municipium called Felicitas Julia, adding to the name Olissipo. Ruled by a series of Germanic tribes from the 5th century, it was captured by the Moors in the 8th century. In 1147, the Crusaders under Afonso Henriques reconquered the city and since then it has been a major political, economic and cultural centre of Portugal. Unlike most capital cities, Lisbon's status as the capital of Portugal has never been granted or confirmed officially -- by statute or in written form. Its position as the capital has formed through constitutional convention, making its position as de facto capital a part of the Constitution of Portugal. Lisbon enjoys a Mediterranean climate. Among all the metropoleis in Europe, it has the warmest winters, with average temperatures 15 °C (59 °F) during the day and 8 °C (46 °F) at night from December to February. The typical summer season lasts about six months, from May to October, although also in April temperatures sometimes reach around 25 °C (77.0 °F).
