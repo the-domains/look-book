@@ -1,7 +1,7 @@
 name: Look Book
 favicon: null
-layout_spectrum: 0.6062915017828345
-typography_spectrum: 0.7217364134266973
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.2584398784674704
-  lightness: 0.6408263656776398
-  saturation: 0.837400916730985
-  rhythmicContrast: 0.7528797718696296
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
