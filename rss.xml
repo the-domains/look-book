@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Look Book]]></title>
         <description><![CDATA[Look Book]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/look-book/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 00:49:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 00:50:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/look-book/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a12e066-cdf8-4d1e-b380-3c288aa5b47b.jpg">]]></description>
+            <link>https://thegrid.ai/look-book/7e5298b3-a7d7-4345-9f8c-d56b7d9bbcb8/index.html</link>
+            <guid isPermaLink="false">7e5298b3-a7d7-4345-9f8c-d56b7d9bbcb8</guid>
+            <pubDate>Wed, 09 Dec 2015 00:50:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Brandon Gloves, the next evolution in gloves to keep your hands warm and your feet dry. This commercial is edgy, glowing, and will take your gloves off. The style is dark, cool, and warm. It will turn heads down to the ground because everyone will be in awe. Take a ride!</p>]]></description>
-            <link>undefined096a2bba-a730-41f1-8acc-f9863e7ffc01/index.html</link>
+            <link>https://thegrid.ai/look-book/096a2bba-a730-41f1-8acc-f9863e7ffc01/index.html</link>
             <guid isPermaLink="false">096a2bba-a730-41f1-8acc-f9863e7ffc01</guid>
             <pubDate>Wed, 09 Dec 2015 00:49:07 GMT</pubDate>
         </item>
